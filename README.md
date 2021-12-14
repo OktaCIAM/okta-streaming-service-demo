@@ -20,7 +20,7 @@ This project serves as a Sample Application, that you can tweak or completely re
 1. Clone the repo.
 
 ```bash
-git clone https://github.com/whitesand230/okta-streaming-service-demo.git
+git clone https://github.com/OktaCIAM/okta-streaming-service-demo.git
 ```
 
 2. Install dependencies based on package.json.
